@@ -1,0 +1,11 @@
+Scaffold-DbContext "Data Source=LAPTOP-KFNTUGHJ\SQLEXPRESS;Integrated Security=True" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+
+
+ builder.Services.AddDbContext<DACDbContext>(
+                options => options.UseSqlServer("name=myCon")
+                );
+
+  "ConnectionStrings": {
+      "myCon": "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=master;Integrated Security=True"
+      
+  },

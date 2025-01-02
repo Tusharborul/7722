@@ -9,3 +9,5 @@ Scaffold-DbContext "Data Source=LAPTOP-KFNTUGHJ\SQLEXPRESS;Integrated Security=T
       "myCon": "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=master;Integrated Security=True"
       
   },
+
+https://drive.google.com/file/d/1XbiaZM-jzcDYl1pDgLeDr3GCrKkv-ZkK/view?usp=drivesdk
